@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fast Five</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background-image: url('fast_five_background.jpg');
+            background-size: cover;
+            background-position: center;
+            font-family: Arial, sans-serif;
+            color: white;
+        }
+        .container {
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            background-color: rgba(0, 0, 0, 0.5);
+            border-radius: 10px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Fast Five</h1>
+        <p>
+            Fast Five is a 2011 action film directed by Justin Lin and starring Vin Diesel, Paul Walker, Dwayne Johnson, and others. It is the fifth installment in the Fast & Furious franchise.
+        </p>
+        <h2>Trailer</h2>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/vcn2GOuZCKI" frameborder="0" allowfullscreen></iframe>
+        <p>
+            Watch the trailer above to get a glimpse of the action-packed adventure in Fast Five!
+        </p>
+    </div>
+</body>
+</html>
